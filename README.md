@@ -40,25 +40,15 @@ modifier cette ligne et ajouter de cette maniere :
 
 ![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/f73c7fbf-3ded-4142-a3cf-e6498703e5e3)
 
+modifier cette ligne et ajouter de cette maniere :
+
+![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/a3bc61fb-7496-4091-ad5a-d65ec427e9b0)
+
+
 ![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/e6e0aeba-2c6e-4fd1-8129-326c5267bd81)
 
 
-Installation :
 
-Cloner le dépôt
-
-
-Copier le code dans votre cmd pour télécharger le projet
-
-"git clone https://github.com/DorianGillot/Assault_cube_cheat_menu.git"
-
-Ouvrir le projet dans Visual Studio
-
-Ouvrez Visual Studio 2022.
-
-Cliquez sur File > Open > Project/Solution.
-
-Sélectionnez le fichier .sln dans le répertoire cloné.
 
 Compiler et exécuter
 
@@ -68,3 +58,12 @@ Conseil :
 
 Avant de compiler, lancer votre Visual studio en administrateur. De plus, il faudra placer le dossier contenant le projet en exception dans l'antivirus. Sinon à chaque compilation le programme se fera supprimer.
 
+Problème :
+
+Si vous rencontrez des problèmes lors de la compilation je vous invite a mettre oui à la place de non :
+
+![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/03bdf012-f7ee-4673-b193-e276f077729a)
+
+De plus si vous rencontrez des erreurs de build pendant la compilation, vous pouvez forcer la celle en cliquant sur oui :
+
+![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/b09a8107-e6d2-49a7-af3e-e71e8d469d98)
