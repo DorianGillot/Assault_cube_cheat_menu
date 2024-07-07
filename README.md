@@ -8,6 +8,19 @@ Visual Studio 2022,
 C++17 ou supérieur
 et la version 1.2.0.2 du jeu (https://www.fileeagle.com/software/1075/AssaultCube/1.2.0.2)
 
+Installation :
+
+
+Copier le code dans votre cmd pour télécharger le projet : 
+
+"git clone https://github.com/DorianGillot/Assault_cube_cheat_menu.git"
+
+Ouvrez Visual Studio 2022.
+
+Cliquez sur Project/Solution.
+
+Sélectionnez le fichier .sln dans le répertoire cloné et lancer.
+
 Paramètres requis pour le projet dans visual studio :
 
 ![Screenshot 2024-07-07 154449](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/e6876dbf-07b7-4568-b8b0-7ef65f88812a)
