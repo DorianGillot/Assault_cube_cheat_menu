@@ -29,6 +29,11 @@ Paramètres requis pour le projet dans visual studio :
 
 ![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/af565b6e-455d-4840-964e-9e46dbc2d2b8)
 
+modifier cette ligne et ajouter de cette maniere :
+
+![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/e0959605-f233-4fa1-be99-0c825e081527)
+
+
 ![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/dd318c10-26a9-4dc9-bab1-6f3683d2eea8)
 
 ![image](https://github.com/DorianGillot/Assault_cube_cheat_menu/assets/170820152/23b2e528-d9d5-4db6-9f9a-efe249351dad)
