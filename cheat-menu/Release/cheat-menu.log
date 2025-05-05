@@ -1,0 +1,10 @@
+﻿  cheat.cpp
+C:\Users\dodog\Desktop\informatique\fps_cheat\ac-cheat-menu\cheat-menu\cheat\cheat.cpp(236,23): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\dodog\Desktop\informatique\fps_cheat\ac-cheat-menu\cheat-menu\cheat\cheat.cpp(254,20): warning C4566: le caractère représenté par le nom de caractère universel '\u274C' ne peut pas être représenté dans la page de codes actuelle (1252)
+C:\Users\dodog\Desktop\informatique\fps_cheat\ac-cheat-menu\cheat-menu\cheat\cheat.cpp(261,16): warning C4566: le caractère représenté par le nom de caractère universel '\u2705' ne peut pas être représenté dans la page de codes actuelle (1252)
+  Génération de code en cours
+  2 of 1629 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  cheat-menu.vcxproj -> C:\Users\dodog\Desktop\informatique\fps_cheat\ac-cheat-menu\cheat-menu\Release\cheat-menu.exe
